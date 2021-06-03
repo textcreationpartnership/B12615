@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Co[m]myssioners for our soueraygne lorde kynge Henry the. viij. that nowe is by his lettres patentes assygned named and deputed for thorderynge and assessynge of eruey [sic] p[er]sone dwellynge, abydynge, or hauynge theyr moost resorte to, or in the sayd Cytie of London chargeable and contributory to a subsydie graunted to our sayd soueraygne lorde, by auctoryte of his Parlyament last holden in Westm[inster] to A.B. [blank] gretynge  ...</title>
+            <author>England and Wales. Commissioners of Subsidy.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12615</idno><idno type="EEBO-CITATION">99857600</idno>
+  <idno type="VID">173049</idno>
+  <idno type="EEBO-PROQUEST">2240891588</idno>
+  <idno type="STC">STC 7767</idno>
+  <idno type="STC">ESTC S122474</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857600e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Co[m]myssioners for our soueraygne lorde kynge Henry the. viij. that nowe is by his lettres patentes assygned named and deputed for thorderynge and assessynge of eruey [sic] p[er]sone dwellynge, abydynge, or hauynge theyr moost resorte to, or in the sayd Cytie of London chargeable and contributory to a subsydie graunted to our sayd soueraygne lorde, by auctoryte of his Parlyament last holden in Westm[inster] to A.B. [blank] gretynge  ...</title>
+                  <author>England and Wales. Commissioners of Subsidy.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>printed by Richard Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1515]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>Imprint from STC.</note>
+                  <note>A blank form ordering certification of the names in each ward in London.</note>
+                  <note>Identified as STC 7764 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Second sheet cropped.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Corporation of London --  Census --  Forms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter_patent">
+            <pb facs="tcp:173049:1"/>
+            <p>Cōmyssioners for our soueraygne lorde kynge Henry the .viii. that nowe is / by his lettres patentes assygned named and deputed for thorderynge and assessynge of eruey {per}sone dwellynge / abydynge / or hauyngt theyr inoost resorte to / or in the sayd Cytie of London chargeable and Contributory to a Subsydie graunted to our sayd soueraygne lorde / by auctoryte of his Parlyament last holden at Westin to A. B.</p>
+            <p>
+               <gap reason="blank" extent="1+ words">
+                  <desc> _____ </desc>
+               </gap> gretynge. ¶ we on the behalfe of our sayd Soueraygne lorde the kynge / and by auctoryte of his sayd lettres patent<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Accestraytly charge &amp; cōmaunde you and euery of you {per}sonally to appere before vs / or before vs / and the other Cōmyssioners in the sayd lettres patentes assygned or before .vi. viiij. iij. or ij. of vs at <gap reason="blank" extent="1+ words">
+                  <desc> _____ </desc>
+               </gap> the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of this present Moneth of Aprell / at the houre of .viii. of the clocke before noone. And there certefye vs by wrytynge / the names and surnames of all and synguler {per}sones men and women of thage of .xv. yeres or aboue beynge within the sayd warde / and dwellynge / or abydynge or ha<g ref="char:EOLunhyphen"/>uynge his or her most resorte within the same parysshe aswell within lyberties / Sayntwaryes / as in al other places with in the sayd parysshe and of the sayd warde. ¶ And also of all men and women vnder the sayd age of .xv. yeres hauynge / or takynge profyttes of any landes / tenement / rentes / fees / annuytes / offyres / or Corodyes / of the yerely value of .xx. s̄. or aboue / or hauyng / goodes or Catalles / mouable / coyne / plate / Stocke of marchaūdyse on thyssyde the see / or beyonde the see / to the value of .xl.s̄. or aboue theyr dettes except / the names of women hauynge husbondes Beggers / and euery {per}sone lyuynge oonly by almes of Charyte oonly excepted. ¶ And ouer this that ye certefye by your sayd wrytynge / the yerely value of the sayd profyttes at the vttermoste / And the value of y<seg rend="sup">e</seg> sayd goodes &amp; catalles mouable at the vttermost of euery {per}sone / whose name ye shall certefy before vs at the sayd day and place / And whiche of theyin ben borne within the kyng{is} obeysaunce / and whiche of theyin ben alyens borne out of the kynges obeysaunce accordynge to the tenour and effect of the Artycles hereafter specyfyed and declared indifferently as nyghe as ve by your discressions wysooms / and after your conscyence by way of serche demaundynge of questyons or otherwyse ye can or may.</p>
+            <p>
+               <seg rend="decorInit">F</seg>Irste ye shall certefye by your sayd wrytynge in one Artycle by it selfe the na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of euery parsone beynge within the sayd warde / and dwellynge / or hauynge his / or her moost resorte to / or in the layd parysshe / And hauynge yerely profyttes of Land / tesites / fees / annuytes / rent / <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eruyc / offyc / or Corodyes to his or her owne vse to the yerely value of .xx.s̄. or aboue in any place or places within this Realme / and to what yerely va<g ref="char:EOLhyphen"/>lue the same profyttes of landes and tenementes / and other (the premysses) extende vnto / at the vttermost / So that the sayd {per}sone haue not goodes and catalles mouable / as beforesayd within this Realme of Englande / and in the parties be yonde the see / that amounte and extende aboue the sayd yerely value / at the vttermost of the sayd profyttes of the same lan<g ref="char:EOLunhyphen"/>des / tenementes / annuytes / offyces / and Corodyes / For then in that case the parsone shalbe cessed by the value of the sayd goodes / and catalles / mouable / whiche is best for the kyng / And not by &amp; after the yerely value of the sayd profyttes of his landes / and other (the premysses) beforesayd nor shalbe cessed for bothe / but for one the whiche shalbe best for the kynge / wo<g ref="char:EOLunhyphen"/>men hauynge husbondes oonly except.</p>
+            <p>¶ Also in the same Artycle to certyfy the names and surnames of euery parsone man and woman of thage of .xv. yeres or aboue / And with whiche of the sayd {per}sones they ben in housholde / and not hauynge landes / tenementes / seruyces / annuy<g ref="char:EOLunhyphen"/>tes / fees / offyces, or Corodyes to his or their propre vse to the yerely value of .xx. s̄. nor goodes and catalles mouable to the value of .xl. s̄. nor be ynge a begger / nor lyuynge oonly by almes / of charyte / nor woman hauynge husbonde / ne takynge wages or profyttes for wages by yere to the value of .xx. s̄. And also the names and surnames of euery {per}sone takynge wa<g ref="char:EOLhyphen"/>ges or profyttes for wages by yece to the value of .xx. s̄. or aboue / and thenne to what value euery suche {per}s<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>keth by yere in wages or profyttes for wages at the vttermoste, and with whiche of the sayd {per}sones they ben dwellynge or aby<g ref="char:EOLhyphen"/>dynge in husholde / and that you certyfy by your sayd wrytynge / whiche of the sayd parsones be borne vnder the kynges obeysaunce / and whiche be borne out of the kynges obeysaunce aswell the maysters as all the other abouesayd.</p>
+            <pb facs="tcp:173049:2"/>
+            <p>xl. s̄. or aboue in any place or places within this Realme of Englande or in the {per}<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es of beyonde the see / And to what value the same goodes mouable extende and Amounte vnto at the vttermoste / Soo that the same {per}sone haue not profyttes / of landes / tenementes / rentes / seruyces / fees / annuytes / offyces / or Corodyes to his or theyr owne vse extendynge or Amoun tynge in yerely value aboue the value that the same goodes and catalles mouable of the same {per}sone amounteth to at the vttermost / For thenne in that case the {per}sone shalbe cessed by and after the yerely value of the sayd profyttes of his landes / tenementes / annuytes / fees / and offyces / whiche shalbe best for the kynge &amp; not by and after the value of the same goodes and catalles / nor shalbe cessed for bothe / but for one the whiche shalbe beste for the kynge women hauynge husbondes on<g ref="char:EOLhyphen"/>ly except.</p>
+            <p>¶ Also in the same Artycle to certyfy the names &amp; surnames of euery {per}sone man or woman of thage of .xv. yeres or aboue and not hauynge profyttes of landes / tenemēd / rentes / seruyc / annuytes / fees / offyces / or Corodyes to his or theyr propre vse to the yerely value of .xx. s̄. nor goodes / and catalles as beforesayd mouable to the value of .xl.s̄. nor beynge a Begger / nor lyuynge oonly by almes of charyte nor takyng wages or profyttes for wages by yere to the value of .xx s̄. nor woman hauynge husbonde. And also the names and surnames of euery suche {per}sone takynge wages or profyttes for wages by yere to the value of .xx s̄ or aboue / And to what value euery suche {per}sone taketh by yere in wages or prefyttes for wages at the vttermost / And with whiche of the sayd parsones they ben dwellynge or in housholde / And that you certyfye by your sayd wrytynge whiche of the sayd {per}sones be borne vnder the kynges obeysaunce / And whiche be borne out of the kynges obeysaunce aswell the maysters as all other aboue specyfyed.</p>
+            <p>¶ Also in an other Artycle the names and surnames of euery {per}sone beynge within the sayd warde / dwellynge / abydyn<g ref="char:EOLhyphen"/>ge / or hauynge his / or her moste resorte in or to the sayd parysshe &amp; beynge of thage of .xv. yeres or aboue hauynge no pro<g ref="char:EOLhyphen"/>fyttes of landes / tenementes / and other (the premysses) to the yerely value of .xx. s̄. nor hauynge goodes and catalles / mo<g ref="char:EOLhyphen"/>uable to the value of .xl. s̄. nor beynge a begger / nor woman hauynge an husbonde / nor lyuynge oonly by Almes of chary <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or dwellygne / nor abydynge in housholde with any of them / nor takynge wages / nor profyttes for wages by yere to <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.xx. s̄. or aboue.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
